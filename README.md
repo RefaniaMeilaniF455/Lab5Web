@@ -35,6 +35,11 @@
 # Pilihan menggunakan checkBox dengan perhitungan otomatis
 ![image](https://github.com/user-attachments/assets/02d9a0fd-4f47-4abe-8501-203ab386ec4c)
 
+# Tugas : Buat script untuk melakukan validasi pada isian form.
+# saya memasukan angka 78, maka hasilnya adalah bilangan genap
+![image](https://github.com/user-attachments/assets/889012b6-c34b-4999-aeec-9c2614efaade)
+![image](https://github.com/user-attachments/assets/be2bfcdd-19d2-4f3a-a97d-37298ec101c1)
+
 
 
 
