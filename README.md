@@ -23,15 +23,21 @@
 ![Screenshot 2024-10-25 222554](https://github.com/user-attachments/assets/6d8a70d5-c7f4-4c2e-ba5f-372ddcfe9472)
 # Penggunaan operator switch untuk seleksi kondisi
 ![image](https://github.com/user-attachments/assets/e3068698-92f2-4bd6-b1fd-a6903d2e7412)
-![Screenshot 2024-10-25 220927](https://github.com/user-attachments/assets/b9ed4da7-16d2-4c14-ad37-1f501bba9ae0)
-![image](https://github.com/user-attachments/assets/707c68ea-2344-4e8a-864b-40ce096738d3)
-# Seleksi kondisi (if..else)
-![image](https://github.com/user-attachments/assets/03d88e82-e450-46fe-af44-20aeba0220e4)
-![image](https://github.com/user-attachments/assets/51c65d6d-9993-4059-8fff-be5a7852cbe5)
-![image](https://github.com/user-attachments/assets/3ac2c0a5-3dd4-446c-a0e7-7630f5ef9a94)
-![image](https://github.com/user-attachments/assets/a679c737-ad6a-4b6f-ab1f-833d4e56bd01)
-![image](https://github.com/user-attachments/assets/dca5a44d-ed70-4e09-9fcc-8a834113ae30)
-# Penggunaan operator switch untuk seleksi kondisi
+# Form Input (saya memasukan angka 7, maka keterangan yang didapatkan ganjil)
+![image](https://github.com/user-attachments/assets/e6803024-4f89-46b0-9483-428f62a41e41)
+# Form Button
+# 1. Ada banyak pilihan warna
+![image](https://github.com/user-attachments/assets/d30c25d5-ef5e-43b4-bd9e-0876de1daa64)
+# 2. saya klik warna biru, maka backgroundnya berwarna biru
+![image](https://github.com/user-attachments/assets/7ac25aa1-98be-4277-a845-faa37eb4483c)
+# 3. saya klik warna kuning, maka backgroundnya berwarna kuning
+![image](https://github.com/user-attachments/assets/46e8409d-17b3-4006-a142-190cd323e209)
+# Pilihan menggunakan checkBox dengan perhitungan otomatis
+![image](https://github.com/user-attachments/assets/02d9a0fd-4f47-4abe-8501-203ab386ec4c)
+
+
+
+
 
 
 
