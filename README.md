@@ -15,6 +15,13 @@
 ![image](https://github.com/user-attachments/assets/2acc7d53-0072-4172-9c0a-f86e15ebf196)
 ![image](https://github.com/user-attachments/assets/00fd2555-adad-4740-8ecb-50af2ee60cc3)
 # Seleksi kondisi (if..else)
+# 1. Jika kita menginput nilai kurang dari 60 hasilnya tidak lulus
+![Screenshot 2024-10-25 222444](https://github.com/user-attachments/assets/724b1eb5-acf2-4497-b124-2a764dd5a42e)
+![Screenshot 2024-10-25 222506](https://github.com/user-attachments/assets/1a5fef32-37d2-4e88-a462-c1ce5bba63b5)
+# 2. Jika kita menginput nilai lebih dari 60 maka hasilnya lulus
+![Screenshot 2024-10-25 222532](https://github.com/user-attachments/assets/481b1438-65c2-4eec-81e0-0b009bd5f3ac)
+![Screenshot 2024-10-25 222554](https://github.com/user-attachments/assets/6d8a70d5-c7f4-4c2e-ba5f-372ddcfe9472)
+# Penggunaan operator switch untuk seleksi kondisi
 ![image](https://github.com/user-attachments/assets/e3068698-92f2-4bd6-b1fd-a6903d2e7412)
 ![Screenshot 2024-10-25 220927](https://github.com/user-attachments/assets/b9ed4da7-16d2-4c14-ad37-1f501bba9ae0)
 ![image](https://github.com/user-attachments/assets/707c68ea-2344-4e8a-864b-40ce096738d3)
